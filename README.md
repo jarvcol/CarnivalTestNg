@@ -5,4 +5,8 @@ Project is created with testng, maven and selenium and write in java. Please ref
 
 TC #2 is not exactly equal to manual case due to time limitations (is not validating Cruise summary,Cruise liner information, Cities information, Day by day summary, etc)
 
-Please refer to videos for execution
+Please check videos of execution, videos were recorded on quicktime.
+
+Please refer to manual test folder for test cases and evidences
+
+Remember to change the driver location on MyDriver class.
