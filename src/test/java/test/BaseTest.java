@@ -28,4 +28,11 @@ public class BaseTest {
 	public CarnivalHomePage getCarnivalHomePage(){
 		return carnivalHome;
 	}
+	
+	@DataProvider(name="UserStory1TCData")
+	public Object[][] dataProviderExc1(){
+		return new Object[][]{
+			{"Bahamas","6 - 9 Days","600","500"}
+		};
+	}
 }
