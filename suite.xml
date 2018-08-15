@@ -5,7 +5,7 @@
     <test verbose="2" name="partC">
     		<groups>
     			<run>
-                <include name="UserStory1TC"/>
+                <include name="UserStory2TC"/>
             </run>
         </groups>
         <classes>
