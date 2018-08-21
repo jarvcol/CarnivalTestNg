@@ -1,4 +1,4 @@
-# zemogaDelivery
+# CarnivalTestNg
 
 Please use java 8 at minimun.
 Project is created with testng, maven and selenium and write in java. Please refer to POM for dependencies.
